@@ -1,2 +1,2 @@
-export * from './types';
-export * from './Navigator';
+export * from './Types';
+export * from './navigator';
